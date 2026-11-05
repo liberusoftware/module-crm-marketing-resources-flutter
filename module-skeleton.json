@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-resources-flutter",
+  "capabilityKey": "liberusoftware/module-crm-marketing-resources",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_marketing_resources_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/marketing-resources.md",
+  "presentationPlan": "projects/crm/flutter/marketing-resources.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
